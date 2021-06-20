@@ -1,13 +1,4 @@
 {
-    id: `Bing`,
-    category: `Search Results`,
-    title: `186718706`,
-    description: `Bing Search Results.`,
-    uri: `https://www.bing.com/search?q=`,
-    image: `Bing`,
-    hash: `mB`,
-    media: !1
-}, {
     id: `CBS/Washington D.C.`,
     category: `News`,
     title: `479574935`,
@@ -1421,15 +1412,6 @@
     hash: `zY`,
     media: !1
 }, {
-    id: `People`,
-    category: `Media`,
-    title: `388531224`,
-    description: `People is an American Weekly Magazine of Celebrity and Human-Interest Stories.`,
-    uri: `https://people.com/tag/news/feed`,
-    image: `People`,
-    hash: `lP`,
-    media: !0
-}, {
     id: `Rolling Stone`,
     category: `Media`,
     title: `190008497`,
@@ -1635,7 +1617,7 @@
     uri: `https://www.reddit.com/r/boston/.rss`,
     image: `BostonMA`,
     hash: `tA`,
-    media: !0
+    media: !1
 }, {
     id: `Reddit/Buildapc`,
     category: `Reddit`,
@@ -1653,7 +1635,7 @@
     uri: `https://www.reddit.com/r/California/.rss`,
     image: `California`,
     hash: `cA`,
-    media: !0
+    media: !1
 }, {
     id: `4Chan/Sports`,
     category: `Reddit`,
@@ -1833,7 +1815,7 @@
     uri: `https://www.reddit.com/r/Detroit/.rss`,
     image: `Detroit`,
     hash: `DR`,
-    media: !0
+    media: !1
 }, {
     id: `Reddit/DIY`,
     category: `Reddit`,
@@ -1878,7 +1860,7 @@
     uri: `https://www.reddit.com/r/entertainment/.rss`,
     image: `Reddit`,
     hash: `Ne`,
-    media: !0
+    media: !1
 }, {
     id: `Reddit/FacePalm`,
     category: `Reddit`,
@@ -2103,7 +2085,7 @@
     uri: `https://www.reddit.com/r/movies/.rss`,
     image: `Movies`,
     hash: `mo`,
-    media: !0
+    media: !1
 }, {
     id: `Reddit/NetFlix`,
     category: `Reddit`,
@@ -2265,7 +2247,7 @@
     uri: `https://www.reddit.com/r/television/.rss`,
     image: `Television`,
     hash: `vT`,
-    media: !0
+    media: !1
 }, {
     id: `Reddit/Thinkpad`,
     category: `Reddit`,
@@ -2301,7 +2283,7 @@
     uri: `https://www.reddit.com/r/videos/.rss`,
     image: `Videos`,
     hash: `rV`,
-    media: !0
+    media: !1
 }, {
     id: `Reddit/Wallpaper`,
     category: `Reddit`,
@@ -2850,15 +2832,6 @@
     uri: `https://www.bleepingcomputer.com/feed/`,
     image: `BleepingComputer`,
     hash: `Cb`
-}, {
-    id: `Computer Weekly`,
-    category: `Tech`,
-    title: `740057785`,
-    description: `Computer Weekly stands out from the many Technology Websites.`,
-    uri: `https://www.computerweekly.com/rss/RSS-Feed.xml`,
-    image: `ComputerWeekly`,
-    hash: `Wc`,
-    media: !1
 }, {
     id: `Boy Genius Report`,
     category: `Tech`,
